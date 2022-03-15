@@ -1,0 +1,15 @@
+{
+  "name": "test-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ThunderMiracle",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@web-configs/prettier": "0.1.1"
+  },
+  "prettier": "@web-configs/prettier"
+}
